@@ -1,2 +1,4 @@
-# hello-world
-a repository
+- 这是内测网站的测试信息获取代码备份
+
+- 支持PR
+- 支持ER
